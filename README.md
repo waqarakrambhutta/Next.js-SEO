@@ -6,7 +6,7 @@
 
 
 
-* **Metadata: **Title, Description and favicon.ico(generate favicon from the [link](realfavicongenerator.net)). We can set meta data as: \
+* **Metadata:** Title, Description and favicon.ico(generate favicon from the [link](realfavicongenerator.net)). We can set meta data as: \
 
 
 
@@ -36,7 +36,7 @@ export const metadata = {
 
 
 
-* **opengraph-image.png: **this is the link image when we paste the link of the website on social media. This is a simple png. You can use [Link](gimp.org) for it.
+* **opengraph-image.png:** this is the link image when we paste the link of the website on social media. This is a simple png. You can use [Link](gimp.org) for it.
 
 
 To see the preview of the og-image and metadata on social media, first we live the local host as mentioned on top. And paste the link on a website like [link](socialsharepreview.com)  or [link](opengraph.xyz).  For more functionality of og-image see the docs of next.js og-image generation.
