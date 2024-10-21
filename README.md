@@ -1,4 +1,4 @@
-**<span style="text-decoration:underline;">#Next.js SEO</span>**
+**<span style="text-decoration:underline;">Next.js SEO</span>**
 
 **<span style="text-decoration:underline;">To run website of localhost on internet globally we use [Link](docs.srv.us).</span>**
 
